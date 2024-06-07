@@ -6,4 +6,4 @@ Frontend HANYA bertujuan untuk menampilkan hasil sudoku setelah diselesaikan.
 
 Folder buat sa berisi code untuk penyelesaian problem Sudoku. 
 Terdapat 2 cara, yaitu Brute Force dan Backtracking.
-Terlampir contoh input sudoku dengan tingkat kesulitan berbeda pada file tipe-kesulita.txt
+Terlampir contoh input sudoku dengan tingkat kesulitan berbeda pada file tipe-kesulitan.txt
